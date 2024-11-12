@@ -56,3 +56,27 @@ Why should a fiction reader sign up for Bookspeak?
 * They want to know what happens to the character after their published story ended.
 * They want to engage with their favorite authors in a unique way that makes their stories more interactive.
 * They want a fun way to connect with other readers and discover new authors.
+## Project Goals
+1. Create detailed documentation for the Bookspeak project that outlines every stage of the process, including planning, MVP launch, premium feature integration, and AI posting. 
+2. Launch a minimum viable product (MVP) by January 1, 2026. This phase will include the basic functionality of the social media platform to gather end-user feedback and validate the concept.
+3. Once the app is stable, Bookspeak will give author users the ability to monetize their feed through text, audio, video, and image posts.
+4. Add another premium feature with an AI component that creates posts automatically for author users.
+## Features & Functionality
+### MVP Features
+* Author admin panel to manage multiple pen names and character accounts under each pen name.
+* Social media timeline of posts that can be filtered by pen name, book series, novel, genre, and tropes.
+* Reader user accounts that allow them to follow specific authors, book series, books, genres, and tropes.
+* Commenting for authors and readers.
+* Rec (Bookspeak's version of "like") buttons that work similar to Reddit's upvoting system for posts and comments.
+### Premium Features
+* Authors will be able to monetize their characters' posts.
+* Authors will be able to receive monetary tips from their fans.
+* Authors will be able to create funding campaigns for future books or merchandise.
+### AI Features
+* AI will give authors the ability to be hands-off in their posting.
+* AI will be able to create new events as the characters age beyond their published stories that will create a database of the characters' lives.
+### Story/Series Bible Features
+* Authors will be able to build characters from scratch with a unique character engine.
+* Authors will be able to build settings from scratch with a unique worldbuilding engine.
+* Authors will be able to record story events in a database to build a plot for each novel or series.
+* Authors will be able to automatically generate a bible for their novel or series that puts all these elements together and exports into a PDF file format.
