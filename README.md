@@ -1,4 +1,6 @@
 # Bookspeak
+## Current Status
+Working on updating my C# skills before I start designing the code for the MVP.
 ## Overview
 ### Project Name
 Bookspeak
